@@ -1,0 +1,21 @@
+base: deep pan $8
+base: thin crust $8
+base: cheese crust $12
+tomato sauce $0
+bbq sauce $0
+sweet chilli sauce $0.5
+chedder cheese $1
+mozzarella cheese $1
+fetta cheese $1
+ham $2
+salami $3
+chicken $4
+prawns $5
+pineapple $2
+onion $1
+capsicum $1
+jalapenos $2.5
+olives $2
+mushrooms $2.5
+spinach $3
+anchovies $2.5
