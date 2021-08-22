@@ -18,3 +18,4 @@ Where are all the orders stored?
 ----> The orders will be stored as text files in: files/receipts
 
 Check out the demo video for more information! 
+----> https://www.youtube.com/watch?v=qdUKTTpXFi8
